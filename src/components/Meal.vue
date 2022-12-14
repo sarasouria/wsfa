@@ -21,7 +21,7 @@ export default ({
 </script>
 <style>
 .meal{
-    width: calc(100%-50px);
+    width: calc(100% - 50px);
     height: fit-content;
     background-color: #FFB300;
     color: #fff;

@@ -21,8 +21,8 @@
 <template>
     <section class="header">       
         <div class="welcome-msg">
-            <img src="assets/smoke.png" alt="" class="smoke">
-            <img src="assets/smoke.png" alt="" class="smoke2">
+            <img src="/assets/smoke.png" alt="" class="smoke">
+            <img src="/assets/smoke.png" alt="" class="smoke2">
             <h1>Wasfa</h1>
             <p>This website contains recipes from all over the world , insert dish's name in the search box below and get detailed information about the meal such as how to cook , ingredients and nutritions .</p>                            
             
