@@ -36,7 +36,7 @@
     <section class="about-us">
         <div class="who-we-are">
             <h1>About us</h1>
-            <p>This website contains receipes from all over the world , insert dish's name in the serch box above and get detailed information about the meal such as how to cook , ingredients and nutritions .</p>
+            <p>This website contains recipes from all over the world , insert dish's name in the serch box above and get detailed information about the meal such as how to cook , ingredients and nutritions .</p>
         </div>
         <div class="picture">
             <img src="/assets/cooker.png" alt="">

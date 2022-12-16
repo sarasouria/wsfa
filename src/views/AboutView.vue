@@ -38,6 +38,7 @@
   width: 300px;
   height: fit-content;
   margin-left: -30px;
+  object-fit: contain;
 }
 .about-box .text-box{
   padding: 24px;
