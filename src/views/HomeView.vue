@@ -226,14 +226,26 @@ footer .rights{
     }
 }
 @media screen and (max-width: 600px){
-    .header .welcome-msg{
-        width: fit-content;
-        margin-right: 5vw;
+    .header{
+        display:flex;
+        justify-content: center;        
+        padding: 5vw;
+    }
+    .header .welcome-msg{       
+        display:flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding:5vw;
+        justify-content: center;
+        text-align: center;
+        margin:0;
+
     }
     .about-us{
         flex-direction: column;
         flex-wrap: wrap;
         height: fit-content;
+        padding: 5vw;
     }
     .about-us .who-we-are{
         width: 100%;
