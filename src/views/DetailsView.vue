@@ -32,6 +32,8 @@ export default{
     display: flex;
     background-image: url('https://images.pexels.com/photos/349610/pexels-photo-349610.jpeg');
     background-size: cover;
+    justify-content:center;
+    flex-wrap: wrap;
 }
 
 
@@ -41,6 +43,8 @@ export default{
     display: flex;
     flex-direction: column;
     padding: 12px;
+    flex-wrap: wrap;
+
 }
 .main-box .col2{
     height: inherit;
@@ -48,6 +52,8 @@ export default{
     display: flex;
     flex-direction: column;
     padding: 12px;
+    flex-wrap: wrap;
+
 }
 
 @media screen and (max-width: 600px) {
@@ -56,9 +62,11 @@ export default{
     }
     .main-box .col1{
         width:100%;
+        align-content: center;       
     }
     .main-box .col2{
         width: 100%;
+        align-content: center;       
     }
 }
 
