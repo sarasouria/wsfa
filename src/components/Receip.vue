@@ -44,7 +44,7 @@ export default{
 }
 .receipe-wrapper img{
     width:inherit;
-    height: fit-content;
+   
     object-fit: contain;
 }
 </style>
